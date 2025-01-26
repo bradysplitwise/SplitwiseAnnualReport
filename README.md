@@ -17,7 +17,6 @@ The full job description that inspired this project can be found [here](https://
 
 ## Creating Mock Data
 
-To generate the mock data, I used a custom GPT tool called [Data Craft](https://chatgpt.com/g/g-jJHuZrEPM-data-craft). This tool allowed me to create realistic, usable data quickly, which was crucial for a fast turnaround project like this.
 
 ---
 
@@ -26,7 +25,7 @@ To generate the mock data, I used a custom GPT tool called [Data Craft](https://
 I hosted the database using an AWS RDS instance with PostgreSQL, leveraging the free tier to complete the project efficiently and cost-effectively.
 
 ### Key Challenge: Uploading CSV Files
-RDS restricts the `COPY` command for importing CSV files, but I resolved this by using **DBeaver**, which made importing data into tables straightforward.
+RDS restricts the `COPY` command for importing CSV files, but I resolved this by using **DBeaver**, which made importing data into tables straightforward. Click here to [view the script used to create the tables](Database/SQL-Queries/Database-Create-Scripts.sql)
 
 ---
 
@@ -37,7 +36,7 @@ I began by identifying key metrics and analyzing trends that significantly diffe
 - **Engagement**
 - **Referral Sources**
 
-These metrics were chosen based on their relevance to growth analysis, aligning with the responsibilities outlined in the job description.
+These metrics were chosen based on their relevance to growth analysis, aligning with the responsibilities outlined in the job description. Click here to [view the scripts I created](Database/SQL-Queries/Looker-Queries.sql)
 
 ---
 
