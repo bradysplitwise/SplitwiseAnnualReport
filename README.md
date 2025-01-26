@@ -50,7 +50,7 @@ If you'd like to view the Looker visuals, check out the report [here](https://lo
 
 ## Final Presentation
 
-I incorporated assets from the Splitwise website to design a professional slide deck. The visuals from Looker were loaded onto the slides, and I analyzed the trends, speculating on potential causes and actionable solutions for these patterns. While the data was mock, I aimed to ground my analysis in plausible scenarios.
+I incorporated assets from the Splitwise website to design a professional slide deck. The visuals from Looker were loaded onto the slides, and I analyzed the trends, speculating on potential causes and actionable solutions for these patterns. While the data was mock, I aimed to ground my analysis in plausible scenarios. Click here to [view the final presentation](https://docs.google.com/presentation/d/1yMRgMPXPU4jqjA7PUHs1tT9-DlWFsWA7/edit?usp=sharing&ouid=105964006673201291560&rtpof=true&sd=true)
 
 ---
 
